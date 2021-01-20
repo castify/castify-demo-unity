@@ -2,14 +2,14 @@
   "scopedRegistries": [
     {
       "name": "Castify",
-      "url": "https://asia-northeast1-npm.pkg.dev/castify-prod/public",
+      "url": "https://asia-npm.pkg.dev/castify-prod/unity",
       "scopes": [
         "jp.castify"
       ]
     }
   ],
   "dependencies": {
-    "jp.castify.cas-sdk-unity": "1.0.3",
+    "jp.castify.cas-sdk-unity": "1.0.4",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
     "com.unity.ads": "3.5.2",

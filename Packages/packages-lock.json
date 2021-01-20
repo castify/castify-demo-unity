@@ -129,11 +129,11 @@
       "url": "https://packages.unity.com"
     },
     "jp.castify.cas-sdk-unity": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
-      "url": "https://asia-northeast1-npm.pkg.dev/castify-prod/public"
+      "url": "https://asia-npm.pkg.dev/castify-prod/unity"
     },
     "nuget.mono-cecil": {
       "version": "0.1.5-preview",
